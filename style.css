@@ -3,3 +3,14 @@ body{background-color:
     
     }
 /*Insert Loading code here, Use SEPERATE CSS or internal for different pages.*/
+/*Use Progress bar code instead of loader, test first before comitting.*/
+#progress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#bar {
+  width: 1%;
+  height: 30px;
+  background-color: #04AA6D;
+}
