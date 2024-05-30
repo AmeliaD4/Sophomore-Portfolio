@@ -1,6 +1,7 @@
- myVar = setTimeout(showPage, 3000);
+var myVar;
 var i = 0;
 function move() {
+ myVar = setTimeout(showPage, 3000);
   if (i == 0) {
     i = 1;
     var elem = document.getElementById("bar");
