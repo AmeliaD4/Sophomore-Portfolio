@@ -2,6 +2,9 @@ body{background: linear-gradient(to right, #ffe1f5 0%, #f2fbeb 75%);
   font-size: 17px;
     
     }
+h1{
+  font-family: 'Russo One';font-size: 22px;
+}
 /*Insert Loading code here, Use SEPERATE CSS or internal for different pages.*/
 /*Use Progress bar code instead of loader, test first before comitting.*/
 #bar{
