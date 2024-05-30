@@ -1,3 +1,4 @@
+ myVar = setTimeout(showPage, 3000);
 var i = 0;
 function move() {
   if (i == 0) {
@@ -15,7 +16,6 @@ function move() {
       }
     }
   }
-  var = setTimeout(showPage, 3000);
 }
 
 function showPage() {
