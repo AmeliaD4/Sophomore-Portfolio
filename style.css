@@ -23,6 +23,18 @@ h1{
     100% {
         background-position: 0% 50%;
     }
+       /*.css-selector {
+    background: linear-gradient(343deg, #ffdff4, #edffdf);
+    background-size: 400% 400%;
+
+    animation: gradient 11s ease infinite;
+}
+
+@keyframes gradient {
+    0%{background-position:0% 50%}
+    50%{background-position:100% 51%}
+    100%{background-position:0% 50%}
+} leaving this just in case.*/
 }
 /*Insert Loading code here, Use SEPERATE CSS or internal for different pages.*/
 /*Use Progress bar code instead of loader, test first before comitting.*/
