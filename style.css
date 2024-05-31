@@ -7,10 +7,7 @@ h1{
   font-family: 'Russo One';font-size: 22px;
 }
 #content{
-  background-color: white;
-  border-width: 1px;
-  border-style: double;
-  border-color: #96A687;
+  background-color: #96A687;
 }
 .About{
   width:35%;
