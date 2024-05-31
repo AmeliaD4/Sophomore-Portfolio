@@ -5,6 +5,12 @@ body{background: linear-gradient(to right, #ffe1f5 0%, #f2fbeb 75%);
 h1{
   font-family: 'Russo One';font-size: 22px;
 }
+div{
+  background-color: white;
+  border-width: 1px;
+  border-style: double;
+  border-color: #96A687;
+}
 /*Insert Loading code here, Use SEPERATE CSS or internal for different pages.*/
 /*Use Progress bar code instead of loader, test first before comitting.*/
 #bar{
